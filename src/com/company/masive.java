@@ -1,10 +1,8 @@
 package com.company;
 
-/**
- * Created by Nick on 6/24/16.
- */
+
 public class masive {
-    int [] index = new int [4];
+    /*int [] index = new int [4];
     index [0] = 1;
     index [1] = 3;
     index [2] = 0;
@@ -22,5 +20,5 @@ public class masive {
         ref = index[y];
         System.out.print("Острова = ");
         System.out.println(islands[ref]);
-        y = y+1;
+        y = y+1;*/
 }
